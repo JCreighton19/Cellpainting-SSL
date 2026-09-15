@@ -2,7 +2,7 @@
 
 This research project explores whether **self-supervised learning** can discover biologically meaningful representations directly from Cell Painting microscopy images—without using compound identities or mechanism-of-action (MoA) labels during training.
 
-This repository contains an end-to-end pipeline for training a modified **DINOv2 Vision Transformer** on 5-channel Cell Painting images from the **JUMP Cell Painting Consortium**, evaluating the learned embeddings, and deploying an interactive web application for exploring the resulting embedding space.
+This repository contains an end-to-end pipeline for training a modified **DINO Vision Transformer** on 5-channel Cell Painting images from the **JUMP Cell Painting Consortium**, evaluating the learned embeddings, and deploying an interactive web application for exploring the resulting embedding space.
 
 > **Status:** Research proof of concept. This project investigates whether self-supervised representation learning can recover pharmacologically meaningful structure from Cell Painting images. It is **not** a validated screening or drug discovery tool.
 
