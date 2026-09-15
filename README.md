@@ -1,6 +1,6 @@
 # Cell Painting DINO: Self-Supervised Morphological Profiling
 
-A research project exploring whether **self-supervised learning** can discover biologically meaningful representations directly from Cell Painting microscopy images—without using compound identities or mechanism-of-action (MoA) labels during training.
+This research project explores whether **self-supervised learning** can discover biologically meaningful representations directly from Cell Painting microscopy images—without using compound identities or mechanism-of-action (MoA) labels during training.
 
 This repository contains an end-to-end pipeline for training a modified **DINOv2 Vision Transformer** on 5-channel Cell Painting images from the **JUMP Cell Painting Consortium**, evaluating the learned embeddings, and deploying an interactive web application for exploring the resulting embedding space.
 
